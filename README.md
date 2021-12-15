@@ -2,8 +2,11 @@
 - 👀 I’m interested in life, programming, philsophy, politics, thinking, lifting weights, self-improvement, modding video games (and playing them), and of course, Warhammer 40,000. 
 - 💞️ I’m currently learning to stay sane.
 - 📫 How to reach me : 
+
 Linktree  @ https://linktr.ee/zixiang1993
+
 Email     @ zixiang150193@hotmail.com
+
 LinkedIn  @ https://www.linkedin.com/in/zackngzixiang/
 
 <!---

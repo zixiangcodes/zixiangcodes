@@ -5,9 +5,10 @@ I’m interested in life, programming, philsophy, politics, thinking, lifting we
 
 📫 How to reach me : 
 
-* Linktree  @ https://linktr.ee/zixiang1993
 * Email     @ zixiang150193@hotmail.com
 * LinkedIn  @ https://www.linkedin.com/in/zackngzixiang/
+
+My Linktree Link : https://linktr.ee/zixiang1993
 
 <!---
 zixiang1993/zixiang1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,3 +8,5 @@
 zixiang1993/zixiang1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Hi, my name is Zack! I'm 28 years old as of 2021. Self-learning to program for a better career! These are my attempts to code.

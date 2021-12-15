@@ -3,11 +3,9 @@
 - 💞️ I’m currently learning to stay sane.
 - 📫 How to reach me : 
 
-Linktree  @ https://linktr.ee/zixiang1993
-
-Email     @ zixiang150193@hotmail.com
-
-LinkedIn  @ https://www.linkedin.com/in/zackngzixiang/
+* Linktree  @ https://linktr.ee/zixiang1993
+* Email     @ zixiang150193@hotmail.com
+* LinkedIn  @ https://www.linkedin.com/in/zackngzixiang/
 
 <!---
 zixiang1993/zixiang1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

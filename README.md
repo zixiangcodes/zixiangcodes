@@ -3,6 +3,13 @@ I’m interested in life, programming, philsophy, politics, thinking, lifting we
 
 💞️ I’m currently learning to improve myself in Python and Lua due to modding AI files in 'Warhammer 40,000 : Dawn of War II - Retribution', which uses 'Scripting at Relic' (SCAR), a variant of LUA. 
 
+Nexus Mods:
+https://www.nexusmods.com/dawnofwar2retribution/mods/
+https://www.nexusmods.com/dawnofwar2retribution/users/53315456
+
+ModDB:
+https://www.moddb.com/members/yellowmonkey-elite
+
 📫 How to reach me : 
 
 * Email     @ zixiang150193@hotmail.com

@@ -8,10 +8,6 @@ Nexus Mods:
 * https://www.nexusmods.com/dawnofwar2retribution/mods/
 * https://www.nexusmods.com/dawnofwar2retribution/users/53315456
 
-ModDB:
-
-* https://www.moddb.com/members/yellowmonkey-elite
-
 📫 How to reach me : 
 
 * Email     @ zixiang150193@hotmail.com

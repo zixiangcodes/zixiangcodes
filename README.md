@@ -2,7 +2,7 @@
 I’m interested in life, programming, philsophy, politics, thinking, lifting weights, self-improvement, modding video games (and playing them).
 
 📫 How to reach me : 
-* Coding Portfolio    @ https://zack-codes-coding-portfolio.netlify.app/
+* Coding Portfolio    @ https://zacks-coding-portfolio.netlify.app
 * Email               @ zixiang150193@hotmail.com
 * LinkedIn            @ https://www.linkedin.com/in/zackngzixiang/
 * Linktree Link       @ https://linktr.ee/zixiang1993

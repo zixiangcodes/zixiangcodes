@@ -8,7 +8,7 @@ I’m interested in life, programming, philsophy, politics, thinking, lifting we
 * Linktree Link       @ https://linktr.ee/zixiang1993
 
 Nexus Mods:
-💞️ I’m currently learning to improve myself in Python and Lua due to modding AI files in 'Warhammer 40,000 : Dawn of War II - Retribution', which uses 'Scripting at Relic' (SCAR), a variant of LUA. 
+💞️ I’m currently learning to improve myself in Lua due to modding AI files in 'Warhammer 40,000 : Dawn of War II - Retribution', which uses 'Scripting at Relic' (SCAR), a variant of LUA. 
 * https://www.nexusmods.com/dawnofwar2retribution/mods/
 * https://www.nexusmods.com/dawnofwar2retribution/users/53315456
 
